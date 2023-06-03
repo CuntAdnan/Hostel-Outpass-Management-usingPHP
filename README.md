@@ -29,13 +29,12 @@ Test the application:
 Test the application thoroughly to ensure that it works as expected and that there are no bugs.
 Make any necessary fixes or improvements.
 
-
 ## Screenshots
 
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/74ef6457-6fe9-4299-a44a-9f0e750ad79b)
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/950530cd-f1be-4fe4-8f83-65bc27f86f7b)
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/9f1023e1-73f5-4295-8ceb-0354acafc297)
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/fe7b1f20-56ec-4455-b2ee-3953e8cffe14)
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/e14ff463-6872-4d0a-888f-95a2cbb8dacd)
-![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/f869ba55-6867-482f-a312-756d31194315)
+![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/5f3154c2-ae79-471f-b885-a111c5d42697)
+![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/250f8d54-1e29-4717-9a91-addf344b52e4)
+![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/bfca68c9-963c-4277-bb0d-e64eaf39359d)
+![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/4f575cbf-4acc-43aa-9da2-73559d4446e0)
+![image](https://github.com/hkcs1206/Hostel-Outpass-Management-usingPHP/assets/96352622/193a91b8-8474-443e-87f3-8f87472f61b1)
+
 
