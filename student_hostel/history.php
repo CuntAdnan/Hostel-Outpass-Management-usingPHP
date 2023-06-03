@@ -5,7 +5,65 @@ $result = mysqli_query($con,"SELECT * FROM backup");
 <!DOCTYPE html>
 <html>
  <head>
-   <link rel = "stylesheet" type = "text/css" href = "style2.css">   
+   <!-- <link rel = "stylesheet" type = "text/css" href = "style2.css"> -->
+   <!-- <style>
+    body{
+            color: white;
+            background-image: url("https://th.bing.com/th?q=Dark+Pink+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247");
+            background-size: cover;
+    }
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    tr:nth-child(even) {
+        background-color: transparent;
+    }
+   </style>    -->
+   <style>
+		body {
+			background-image: url("https://th.bing.com/th?q=Dark+Pink+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247");
+      background-size: cover;
+      color: black;
+		}
+
+		table {
+			border-collapse: collapse;
+			width: 100%;
+			/* font-family: Arial, sans-serif; */
+			font-size: 16px;
+			margin-top: 30px;
+			margin-bottom: 30px;
+      background-color:white;
+		}
+
+		th {
+			background-color: #4CAF50;
+			color: white;
+			font-weight: bold;
+			padding: 8px;
+			text-align: left;
+			border: 1px solid #ddd;
+		}
+
+		td {
+			padding: 8px;
+			text-align: left;
+			border: 1px solid #ddd;
+		}
+
+		tr:nth-child(even) {
+			background-color: rgba(0, 0, 0, 0.8);
+      color: white;
+		}
+	</style>
  <title> Requests</title>
  </head>
  <<?php include('history_header.php') ?>

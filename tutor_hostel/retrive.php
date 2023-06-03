@@ -5,7 +5,13 @@ $result = mysqli_query($conn,"SELECT * FROM requestform");
 <!DOCTYPE html>
 <html>
  <head>
-   <link rel = "stylesheet" type = "text/css" href = "style2.css">   
+   <link rel = "stylesheet" type = "text/css" href = "style2.css">
+   <style>
+    body {
+            background-image: url("https://th.bing.com/th?q=Dark+Pink+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247");
+            background-size: cover;
+        }
+   </style>
  <title> Requests</title>
  </head>
  <<?php include('history_header.php') ?>

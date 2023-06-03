@@ -4,7 +4,50 @@
 <html>
 <head>
 	<title>Gatepass form</title>
-    <link rel = "stylesheet" type = "text/css" href = "style.css">  
+    <!-- <link rel = "stylesheet" type = "text/css" href = "style.css">  -->
+	<style>
+		body {
+            background-image: url("https://th.bing.com/th?q=Dark+Pink+Background&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247");
+			background-size: cover;
+			color: #fff;
+		}
+
+		form {
+			margin: 50px;
+			padding: 20px;
+			background-color: rgba(0,0,0,0.5);
+			border-radius: 10px;
+		}
+
+		form input[type="text"],
+		form input[type="integer"],
+		form input[type="radio"],
+		form input[type="date"],
+		form input[type="time"] {
+			padding: 10px;
+			margin: 10px;
+			border: none;
+			border-radius: 5px;
+			background-color: rgba(255,255,255,0.9);
+			color: #000;
+			font-size: 16px;
+		}
+
+		form input[type="submit"] {
+			padding: 10px;
+			margin: 10px;
+			border: none;
+			border-radius: 5px;
+			background-color: #4CAF50;
+			color: #fff;
+			font-size: 16px;
+			cursor: pointer;
+		}
+
+		form input[type="submit"]:hover {
+			background-color: #3e8e41;
+		}
+	</style>
 </head>
 <?php include('history_header.php')  ?>
 <body >
